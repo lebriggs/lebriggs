@@ -1,7 +1,7 @@
 - 👋 I'm Laura.
 - 👀 I’m interested in data analysis using R. 
 - 🌱 I’m currently learning using LLMs for data analysis.
-- 📫 lebriggs@uvic.ca
+- 📫 laura_e_briggs@live.ca
 - ⚡ Fun fact: I love AeroPress lattes. 
 
 <!---
